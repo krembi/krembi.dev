@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdocument_test=self.webpackChunkdocument_test||[]).push([[4937],{82533:e=>{e.exports=JSON.parse('{"tag":{"label":"vendor","permalink":"/docs/tags/vendor","allTagsPath":"/docs/tags","count":1,"items":[{"id":"contact/vendors","title":"Vendors","description":"Vendors","permalink":"/docs/contact/vendors"}],"unlisted":false}}')}}]);
